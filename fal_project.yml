@@ -1,0 +1,9 @@
+environments:
+  - name: named_entity_recognition
+    type: venv
+    requirements:
+      - transformers
+      - torch
+      - accelerate
+      - datasets
+      - pandas
