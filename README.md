@@ -4,4 +4,4 @@ This is an example of extracting physical addresses from free-form text fields u
 
 To get access to fal Cloud, let us know!
 
-For more info, go to the accompanying blog post:
+For more info, go to the accompanying blog post: https://blog.fal.ai/building-language-model-powered-pipelines-with-dbt/
